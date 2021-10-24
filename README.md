@@ -2,9 +2,9 @@
 
 <p>
   
-[![Chat on Telegram](https://img.shields.io/static/v1?&logo=telegram&label=Telegram&color=blue&message=@CharlesYang&style=flat-square)](https://t.me/CharlesYang)
+[![Chat on Telegram](https://img.shields.io/static/v1?&logo=telegram&label=Telegram&color=blue&message=@YukariChiba&style=flat-square)](https://t.me/YukariChiba)
 [![Send me Email](https://img.shields.io/static/v1?label=email&message=i@0x7f.cc&color=orange&style=flat-square)](mailto:i@0x7f.cc)
-[![Follow my Twitter](https://img.shields.io/static/v1?&logo=twitter&label=Twitter&color=blue&message=YukariEwe&style=flat-square)](https://twitter.com/Charle_Yang)
+[![Follow my Twitter](https://img.shields.io/static/v1?&logo=twitter&label=Twitter&color=blue&message=YukariEwe&style=flat-square)](https://twitter.com/YukariEwe)
 
 </p>
 
