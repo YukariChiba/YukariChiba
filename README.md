@@ -1,6 +1,6 @@
 # 🅨🅤🅚🅐🅡🅘Ⓒⓗⓘⓑⓐ
 
-### 🐑 • 🏳️‍⚧️️ • 🌃 • 🎀 • 🖥️
+## 🐑 • 🏳️‍⚧️️ • 🌃 • 🎀 • 🖥️
 
 **Website:** [ewe.moe](https://ewe.moe)
 
@@ -10,10 +10,11 @@
 
 - Data Mining Lab, UESTC
 - OpenEuler RISC-V, ISRC, ISCAS
-- NetUnion, UESTC
+- eweOS, *an open-source Linux distribution*
+- NetUnion, UESTC, *a networking operation center*
 - Amateur Radio Association, UESTC
-- Ingress Association, UESTC
-- Strategic Explorations Ltd
+- Ingress Association, UESTC, *a local game community*
+- Strategic Explorations Ltd, *a tiny ISP*
 
 <p>
 
