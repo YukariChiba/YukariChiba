@@ -7,16 +7,16 @@
 **Blog:** [0x7f.cc](https://0x7f.cc)
 
 **Currently working at ~~(利 益 相 关)~~ :**
-
-- Data Mining Lab, UESTC
+- UnionTech
 - eweOS, *an open-source Linux distribution*
-- NetUnion, UESTC, *a networking operation center*
-- Amateur Radio Association, UESTC
-- Ingress Association, UESTC, *a local game community*
 - Strategic Explorations Ltd, *a tiny ISP*
 
 **Formerly worked at ~~(曾 经 利 益 相 关)~~ :**
+- Data Mining Lab, UESTC
 - OpenEuler RISC-V, ISRC, ISCAS
+- NetUnion, UESTC, *a networking operation center*
+- Amateur Radio Association, UESTC
+- Ingress Association, UESTC, *a local game community*
 
 <p>
 
