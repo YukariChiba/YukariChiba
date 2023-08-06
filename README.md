@@ -7,16 +7,16 @@
 **Blog:** [0x7f.cc](https://0x7f.cc)
 
 **Currently working at ~~(利 益 相 关)~~ :**
-- System Dev Team, Open Source Community, UnionTech
-- eweOS, *an open-source Linux distribution*
-- Strategic Explorations Ltd, *a tiny ISP*
+- System Dev Team, Open Source Community, UnionTech, *a.k.a. deepin* | [Website](https://deepin.org) [GitHub](https://github.com/deepin-community)
+- eweOS, *an open-source Linux distribution* | [Website](https://os.ewe.moe) [GitHub](https://github.com/eweOS)
+- Strategic Explorations Ltd, *a tiny ISP* | [Website](https://strexp.net) [GitHub](https://github.com/strexp)
 
 **Formerly worked at ~~(曾 经 利 益 相 关)~~ :**
-- Data Mining Lab, UESTC
-- OpenEuler RISC-V, ISRC, ISCAS
-- NetUnion, UESTC, *a networking operation center*
+- Data Mining Lab, UESTC | [Website](https://dm.uestc.edu.cn)
+- OpenEuler RISC-V, ISRC, ISCAS, *a.k.a. Tarsier Team*
+- NetUnion, UESTC, *a networking operation center* | [GitHub](https://github.com/NetUnion)
 - Amateur Radio Association, UESTC
-- Ingress Association, UESTC, *a local game community*
+- Ingress Association, UESTC, *a local game community* | [GitHub](https://github.com/UESTC-Ingress)
 
 <p>
 
